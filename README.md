@@ -18,7 +18,7 @@
 
 [![AZ-104](https://img.shields.io/badge/Microsoft%20Certified-AZ--104%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 &nbsp;
-[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 
 </div>
@@ -46,7 +46,7 @@ I'm a certified Azure Cloud Administrator passionate about designing and deployi
 
 [![AZ-104](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 &nbsp;
-[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 </div>
 
