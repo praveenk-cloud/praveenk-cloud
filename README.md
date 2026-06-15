@@ -17,6 +17,10 @@
 <br/>
 
 [![AZ-104](https://img.shields.io/badge/Microsoft%20Certified-AZ--104%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+&nbsp;
+
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+
 
 </div>
 
