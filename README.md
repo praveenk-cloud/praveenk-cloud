@@ -127,7 +127,7 @@ I'm a certified Azure Cloud Administrator passionate about designing and deployi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumar-azure/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-youremail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenkumar.sankar08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-youremail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](praveenkumar.sankar08@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-praveenk--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenk-cloud)
 
